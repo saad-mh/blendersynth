@@ -115,7 +115,7 @@ Val Loss 0.08%
 <img src="images/binaryclassifier.png" alt="Binary Prediction" width=500>
 </p>
 
-Test: Model correctly guessed all of the shown pictures(Not Mug dataset contained pictures from our previous attempt at creating a multiclass classifier that distiguished between 3D renders of letters).
+Test: Model correctly guessed all of the shown pictures(Not Mug folder contained pictures from our previous attempt at creating a multiclass classifier that distiguished between 3D renders of letters).
 ## Acknowledgements
 
  - [3D Rendered Datasets in Blender - Immersive Limit](https://www.youtube.com/watch?v=E1Pqpfg5kSo&list=PLq7npTWbkgVD9KdMI_EekeaRcM7vFXCT0)
