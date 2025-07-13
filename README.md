@@ -15,7 +15,7 @@ This repo contains all the code that we used for the duration of our internship 
 
 
 
-## To Run
+## Process followed
 
 ### A. Dataset Generation
 
