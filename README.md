@@ -78,7 +78,7 @@ a. Target: Classifier that detects if shown image contains a mug or not
 
 b. Using:
 ```  
-    i. MobileNet V2 from Google, Image Shape supported - (224, 224)
+	i. MobileNet V2 from Google, Image Shape supported - (224, 224)
 
 	ii. Python 3.8.0, Tensorflow 2.13.0, Tensorflow Hub, Matplotlib 3.7.5, Numpy 1.24.3, Scipy 1.10.1 
 ```
