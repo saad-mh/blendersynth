@@ -2,6 +2,9 @@
 # BlenderSynth
 
 This repo contains all the code that we used for the duration of our internship at Indian Statistical Institute, Kolkata.
+<p align="center">
+<img src="images/front.png" alt="Multi Class Prediction" width=500>
+</p>
 
 
 
